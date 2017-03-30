@@ -18,6 +18,6 @@ This program use file handling to store contacts. its search function is attract
 
 
 ## Postorder
-This program do postfix of infix form and also shows elements of stack or scanned elements at each step.
+This program give postfix of infix form as an output and also shows elements of stack or scanned elements at each step.
 
 ##### This program takes an infix equation and perform infix to postfix equation and each step or can say contents of stack or scanned element at each step can be seen. 
